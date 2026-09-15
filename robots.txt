@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://horariodebusessomoto.netlify.app/sitemap.xml
